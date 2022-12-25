@@ -19,7 +19,7 @@ var logo_y = -15; // Logo position corrections by Y (in pixels)
 var logo_scale = 43; // Logo sale factor (in percents)
 
 // Greeting text settings
-var textbox_message = "Merry Christmas Everyone!\nFor this Christmas as well as for the coming year, I wish you and your family health, happiness, peace, and prosperity."; // Use \n as line break
+var textbox_message = "Merry Christmas Everyone!\nI wish you many blessings, much happiness, and even more love."; // Use \n as line break
 var textbox_font = "normal 27px miso-regular"; // Font face settings
 var textbox_color = "#DBF5FF"; // Greeting text color
 var textbox_x = 0; // Greeting textbox position by X (in pixels)
